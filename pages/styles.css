@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+a {
+  color: #D7342A !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+}
+
+#nprogress .bar {
+  background: #D7342A !important;
+}
+
+.filter{
+  filter: invert(26%) sepia(83%) saturate(4113%) hue-rotate(350deg) brightness(91%) contrast(85%);
+}
+
